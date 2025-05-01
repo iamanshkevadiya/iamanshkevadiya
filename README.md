@@ -7,7 +7,7 @@
 # 💫 About Me:
 - 🔭 I’m currently working Back-End Development
 - 💻 Currently I study at SWARNIM  Startup & innovation University
-- 🌱 I’m currently learning Java Script
+- 🌱 I’m currently learning Node Js
 - 📫 How to reach me  **anshkevadiya7179@gmail.com**
 - 👨‍💻 All My Projects are available at https://github.com/iamanshkevadiya
 
